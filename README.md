@@ -4,4 +4,4 @@ uhh... *meow*?
 [![Profile views :3](https://komarev.com/ghpvc/?username=Riley-VM&color=5018dd&label=Profile+views+:3)](https://github.com/Riley-VM/)
 
 #### Images and gifs :3
-<img src="assets/meow.gif" width="200" height="200"> <img src="assets/RDT_20250812_0446357293552851146446262.jpg" width="200" height="200"> <img src="assets/circle.png" width="200" height="200">
+<img src="assets/meow.gif" width="200" height="300"> <img src="assets/RDT_20250812_0446357293552851146446262.jpg" width="200" height="300"> <img src="assets/circle.png" width="200" height="300">
