@@ -1,6 +1,8 @@
 <!-- hewo -->
 uhh... *meow*?
 
+[![Profile views :3](https://komarev.com/ghpvc/?username=Riley-VM&color=5018dd&label=Profile+views+:3)](https://github.com/Riley-VM/)
+
 ### I have moved some of my stuff to [git.gay](https://git.gay/Riley_VM)
 
 #### Images and gifs :3
