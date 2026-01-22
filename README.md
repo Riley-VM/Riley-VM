@@ -3,5 +3,7 @@ uhh... *meow*?
 
 [![Profile views :3](https://komarev.com/ghpvc/?username=Riley-VM&color=5018dd&label=Profile+views+:3)](https://github.com/Riley-VM/)
 
+### I have moved some of my stuff to [git.gay](https://git.gay/Riley_VM)
+
 #### Images and gifs :3
-<img src="assets/991548be6a85401c1325c3a8193916d4.jpg" width="200" height="300"> <img src="assets/boykisser-liscense.png" width="200" height="300"> <img src="assets/circle.png" width="200" height="300"> <img src="assets/meow.gif" width="120" height="140"> <img src="assets/20230502_133306.gif" width="135" height="135">
+<img src="https://git.gay/Riley_VM/.profile/raw/branch/main/assets/cookie.jpg" width="200" height="300"> <img src="https://git.gay/Riley_VM/.profile/raw/branch/main/assets/boykisser-liscense.png" width="200" height="300"> <img src="https://git.gay/Riley_VM/.profile/raw/branch/main/assets/circle.png" width="200" height="300"> <img src="https://git.gay/Riley_VM/.profile/raw/branch/main/assets/meow.gif" width="120" height="140"> <img src="https://git.gay/Riley_VM/.profile/raw/branch/main/assets/endless.gif" width="135" height="135">
