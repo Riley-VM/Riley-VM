@@ -1,7 +1,7 @@
 <!-- hewo -->
 uhh... *meow*?
 
-[![Profile views :3](https://komarev.com/ghpvc/?username=Riley-VM&color=5018dd&label=Profile+views+:3)](https://github.com/Riley-VM/)
+[![Profile views :3](https://counter.riley-vm.com/github)](https://github.com/Riley-VM/)
 
 ### I have moved my github stuff to [git.gay](https://git.gay/Ri)
 
